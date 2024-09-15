@@ -10,12 +10,12 @@
   "author": "Brad Traversy",
   "license": "MIT",
   "dependencies": {
-    "@socket.io/redis-adapter": "^7.1.0",
+    "@socket.io/redis-adapter": "^7.2.0",
     "dotenv": "^14.3.2",
-    "express": "^4.18.2",
-    "moment": "^2.29.4",
-    "redis": "^4.0.2",
-    "socket.io": "^4.6.1"
+    "express": "^4.19.2",
+    "moment": "^2.30.1",
+    "redis": "^4.7.0",
+    "socket.io": "^4.7.5"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
